@@ -1,0 +1,13 @@
+.form{
+    position: relative;
+    top: 3rem;
+}
+.form .submit-button{
+    position: relative;
+    top: 3rem;
+}
+.form .cards{
+    position: relative;
+    top: 5rem;
+}
+
